@@ -1,0 +1,17 @@
+{
+    "Format": "1.23.0",
+    "Changes": [
+        {
+            "LogName": "Shane",
+            "Action": "Include",
+            "FromFile": "Data/default/NPCs/Shane.json"
+        },
+        {
+        
+            "LogName": "Forest",
+            "Action": "Include",
+            "FromFile": "Data/default/Events/Forest.json"
+        
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Shane",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Shane",
+            "Entries": {
+                "Mon": "Hi I am a happy boy"
+            }
+        }
+    ]
+}

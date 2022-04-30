@@ -1,0 +1,11 @@
+{
+    "Name": "Dialogue and event expansion for Shane using Content Patcher.",
+    "Author": "Naria Nexis and Cathy T Bradley",
+    "Description": "Changes Shane's dialogue and events to better fit Shane's recovery story. Adds more end game content for Shane married or unmarried.",
+    "Version": "1.0.0",
+    "UniqueID": "nnctb.bettershane",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+     },
+     "UpdateKeys": [ "Nexus:2544" ]
+}
